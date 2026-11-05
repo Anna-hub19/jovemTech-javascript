@@ -41,7 +41,6 @@ if (usuarioDigitado === usuarioCorreto && SenhaDigitada === senhaCorreta) {
         console.log("escolha sua opção");
 
         opcao = readline.question();
-
     }
 
 
