@@ -42,7 +42,6 @@ if (usuarioDigitado === usuarioCorreto && SenhaDigitada === senhaCorreta) {
 
         opcao = readline.question();
 
-
     }
 
 
